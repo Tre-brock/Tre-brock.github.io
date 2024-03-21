@@ -15,4 +15,7 @@ body {
     color: rgb(253, 214, 255);
     text-align: center;
   }
- 
+  h5 {
+    color: rgb(253, 214, 255);
+    text-align: right;
+  }
