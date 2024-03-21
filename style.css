@@ -5,6 +5,7 @@ body {
     color:rgb(214, 248, 248);
     text-align: center;
     }
+
     h2 {
       color:rgb(215, 255, 255);
       text-align: center;
@@ -15,5 +16,9 @@ body {
   }
   h5 {
     color: rgb(253, 214, 255);
+    text-align: right;
+  }
+  h3 {
+    color: rgb(53, 53, 53);
     text-align: right;
   }
