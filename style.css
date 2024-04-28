@@ -21,5 +21,9 @@ body {
   }
   h3 {
     color: rgb(255, 230, 183);
+    text-align: center;
+  }
+  h6 {
+    color: rgb(255, 230, 183);
     text-align: left;
   }
