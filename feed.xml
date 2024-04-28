@@ -6,13 +6,10 @@
   <link>https://Tre-brock.github.io/feed.xml</link>
   <description>I write about what I like and do</description>
   <item>
-    <title>Rss test 1</title>
-    <description>the first test</description>
+    <title>I added RSS to my website</title>
+    <description>I have watched a few videos on rss and read articles on and and have decided to add rss to my website, I left mastodon posting aout a month ago and havent posted on anything since. But now I will be posting on this rss feed! </description>
   </item>
-  <item>
-    <title>Rss test 2</title>
-    <description>wow a second test</description>
-  </item>
+
 </channel>
 
 </rss> 
