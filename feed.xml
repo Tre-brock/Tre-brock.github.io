@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>Tre's posts </title>
+<link>Tre-brock.github.io/feed.xml</link>
+<description> Some post I make talking about things I like and do</description>
+
+<item>
+<pubDate>Sun Apr 28 4:55 PM (utc-4)</pubDate>
+<title>This is a test</title>
+<description>
+This is a post on rss for a test... did it work?
+</description>
+
+</item>
+
+<channel>
