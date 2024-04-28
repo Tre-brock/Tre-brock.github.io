@@ -11,15 +11,15 @@ body {
       text-align: center;
       }
   h1 {
-    color: rgb(253, 214, 255);
+    color: rgb(23, 214, 255);
     text-align: center;
 
   }
   h5 {
-    color: rgb(253, 214, 255);
+    color: rgb(234, 255, 214);
     text-align: right;
   }
   h3 {
-    color: rgb(53, 53, 53);
-    text-align: right;
+    color: rgb(255, 230, 183);
+    text-align: left;
   }
