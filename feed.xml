@@ -6,6 +6,43 @@
   <link>https://Tre-brock.github.io/feed.xml</link>
   <description>I write about what I do, and what I like.</description>
   https://notabug.org/Tre_brock/View-Github-Notifications-in-addon-bar
+     <item>
+  <pubDate>Fri, 3 May 2024 18:31:20 EDT </pubDate>
+    <title>Seamonkey internet suite review</title>
+    <description>The Seamonkey internet suite includes multiple programs in one.
+      These are; browser, HTML editor, contact book, mail and RSS
+      client, and a calendar. It uses the gecko rendering engine by
+      Mozilla (also used by Firefox and Thunderbird). Seamonkey has a
+      good ui, it has the different apps at the bottom of the browser
+      and the bookmarks tabs and controls at the top. My one issue is
+      that to close tabs you have to either right click a tab to close
+      it or press the tab close button while you are on the tab you want
+      to close. To fix this issue you can install. Seatab X 2 from the
+      Seamonkey addon store. The Seamonkey browser is light on ram and
+      is pretty fast. The mail client is smooth. I love how you can have
+      many accounts at once and look through them all. Having your RSS
+      feed with your mail is convenient too. Seamonkey also has a
+      feature where it can detect RSS on a page. The HTML editor is good.
+      It lets you resize images easily. You can edit the HTML page as if
+      you are viewing it and not viewing code. It great to see it
+      visually. But not being able to edit CSS is a bad spot, meaning
+      you will need more then 1 editor. The IRC client of Seamonkey is
+      actually the Firefox addons ChatZilla, and it works. Although it
+      is an addon it feels like it was built for Seamonkey. The ui is
+      basic but is fits Seamonkey. It works for being an irc client.
+      It's speedy and clean. It also supports plugins itself and
+      integrates into the Seamonkey settings. Finally I will be
+      reviewing the calendar. It is built into the mail app, you get to
+      it by clicking "Events and Tasks" at the top bar then clicking
+      calendar. It's a pretty basic calendar app. It lets you use local
+      calendars and use ones from the internet. It also lets you create
+      tasks. It does what you think a calendar would do. It is also
+      technically an addon called lightning. Overall Seamonkey is a
+      great internet suite that I recommend you use. 
+      Ps: if you want a good ad and tracker blocker the look up ublock
+      origin legacy and install that from GitHub.
+       </description>
+  </item>
    <item>
      <pubDate>Mon, 29 Apr 2024 20:50:10 EDT </pubDate>
     <title>I made a new browser addon</title>
