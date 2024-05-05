@@ -1,6 +1,9 @@
 body {
-    background-color: rgb(53, 53, 53);
-  }
+  background: rgb(0,0,0);
+  background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,14,93,1) 25%, rgba(0,143,182,1) 50%, rgba(0,9,97,1) 75%, rgba(0,15,102,1) 100%, rgba(0,0,0,1) 100%, rgba(0,0,0,1) 100%); 
+
+
+}
   h4 {
     color:rgb(214, 248, 248);
     text-align: center;
@@ -27,3 +30,19 @@ body {
     color: rgb(255, 230, 183);
     text-align: left;
   }
+  .donate-box {
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+    width: 200px;
+    
+    height: 100;
+    
+    background-color: #001488;
+    
+    border: 10px solid #000;
+    
+    border-radius: 20px;
+    }

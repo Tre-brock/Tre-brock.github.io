@@ -1,6 +1,12 @@
 body {
-    background-color: rgb(53, 53, 53);
-  }
+  background: rgb(140,88,0);
+  background: linear-gradient(90deg, rgba(140,88,0,1) 36%, rgba(37,28,0,1) 90%, rgba(37,27,0,1) 100%, rgba(0,0,0,1) 100%, rgba(0,0,0,1) 100%); 
+
+
+
+
+}
+  
   h4 {
     color:rgb(214, 248, 223);
     text-align: left;
