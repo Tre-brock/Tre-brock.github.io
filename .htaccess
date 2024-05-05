@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^addons.tretechsolutions.com$ [NC]
+RewriteRule ^(.*)$ https://tretechsolutions.com/browseraddons/$1 [R=301,L]
