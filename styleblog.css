@@ -33,3 +33,20 @@ body {
     color: rgb(255, 230, 183);
     text-align: right;
   }
+
+    .error-box {
+
+      position: absolute;
+      top: 500;
+      left: 400;
+      
+      width: 700px;
+      
+      height: 120;
+      
+      background-color: #003464;
+      
+      border: 15px solid #48ff00;
+      
+      border-radius: 20px;
+      }
