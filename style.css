@@ -30,6 +30,7 @@ body {
     color: rgb(255, 230, 183);
     text-align: left;
   }
+
   .donate-box {
 
     position: fixed;
@@ -51,7 +52,7 @@ body {
 
       position:absolute;
       top:0;
-      right:0;
+      right:5;
       
       width: 130px;
       
@@ -80,3 +81,19 @@ body {
         
         border-radius: 10px;
         }
+        .source-box {
+
+          position:absolute;
+          top:90;
+          right:5;
+          
+          width: 95px;
+          
+          height: 50px;
+          
+          background-color: #ffffff;
+          
+          border: 5px solid #000;
+          
+          border-radius: 10px;
+          }
