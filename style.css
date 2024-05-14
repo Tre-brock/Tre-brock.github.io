@@ -47,22 +47,7 @@ body {
     
     border-radius: 20px;
     }
-    .donated-box {
 
-      position: fixed;
-      top: 120;
-      left: 0;
-      
-      width: 200px;
-      
-      height: 60;
-      
-      background-color: #001488;
-      
-      border: 10px solid #000;
-      
-      border-radius: 20px;
-      }
 
     .gpl-box {
 
