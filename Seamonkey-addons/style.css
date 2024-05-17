@@ -1,0 +1,78 @@
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,78,255,1) 0%, rgba(0,212,255,1) 100%);
+
+}
+
+h1 {
+color: rgb(0, 0, 0);
+text-align: center;
+font-family: serif;
+}   
+     .walnut2-box {
+
+    position:absolute;
+    top:70;
+    left:50;
+    
+    width: 160px;
+    
+    height: 63px;
+    
+    background-color: #ffffff;
+    
+    border: 5px solid #000;
+    
+    border-radius: 10px;
+    }
+    .theme-box {
+
+        position:absolute;
+        top:140;
+        left:30;
+        
+        width: 550px;
+        
+        height: 800px;
+        
+        background-color: #ffd000;
+        
+        border: 5px solid #000;
+        
+        border-radius: 10px;
+        }
+
+
+        .mirco-box {
+
+            position:absolute;
+            top:65;
+            left:335;
+            
+            width: 150px;
+            
+            height: 75px;
+            
+            background-color: #ffffff;
+            
+            border: 5px solid #000;
+            
+            border-radius: 10px;
+            }
+
+            .addon-box {
+
+                position:absolute;
+                top:140;
+                right:30;
+                
+                width: 550px;
+                
+                height: 800px;
+                
+                background-color: #00fff7;
+                
+                border: 5px solid #000;
+                
+                border-radius: 10px;
+                }
