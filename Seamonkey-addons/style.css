@@ -1,6 +1,6 @@
 body {
-    background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(255,0,181,1) 0%, rgba(255,0,0,1) 100%); 
+    background: rgb(131,0,0);
+    background: linear-gradient(90deg, rgba(131,0,0,1) 0%, rgba(255,0,0,1) 100%); 
 
 }
 
@@ -38,7 +38,7 @@ h2 {
                 
                 width: 550px;
                 
-                height: 300px;
+                height: 350px;
                 
                 background: rgb(2,0,36);
                 background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(255,227,0,1) 0%, rgba(255,154,0,1) 100%); 
@@ -82,8 +82,24 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,255,252,1) 0%, rgba
     
     border: 5px solid #000;
     
-    border-radius: 10px;
+    border-radius: 8px;
     }
+    .earlyblue-box {
+
+        position:absolute;
+        top:195;
+        left:71;
+        
+        width: 120px;
+        
+        height: 95px;
+        
+        background-color: #ffffff;
+        
+        border: 5px solid #000;
+        
+        border-radius: 8px;
+        }
 
 
 
@@ -101,7 +117,7 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,255,252,1) 0%, rgba
             
             border: 5px solid #000;
             
-            border-radius: 10px;
+            border-radius: 8px;
             }
 
             .noscript-box {
@@ -168,3 +184,32 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,255,252,1) 0%, rgba
                                 
                                 border-radius: 10px;
                                 }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                /*  Submit addon button */
+ .submit-box {
+
+    position:absolute;
+    top:97;
+    right:510;
+    
+    width: 65px;
+    
+    height: 35px;
+    
+    background-color: #ffffff;
+    
+    border: 5px solid #000;
+    
+    border-radius: 8px;
+    }
