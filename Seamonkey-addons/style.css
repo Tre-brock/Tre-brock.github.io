@@ -56,7 +56,7 @@ h2 {
                     
                     width: 550px;
                     
-                    height: 350px;
+                    height: 480px;
                     
                     background: rgb(2,0,36);
 background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,255,252,1) 0%, rgba(0,129,255,1) 100%); 
@@ -184,6 +184,23 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,255,252,1) 0%, rgba
                                 
                                 border-radius: 10px;
                                 }
+
+                                .addonbutton-box {
+
+                                    position:absolute;
+                                    top:325;
+                                    left:50;
+                                    
+                                    width: 130px;
+                                    
+                                    height: 70px;
+                                    
+                                    background-color: #ffffff;
+                                    
+                                    border: 5px solid #000;
+                                    
+                                    border-radius: 10px;
+                                    }
  
  
  
@@ -204,3 +221,21 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,255,252,1) 0%, rgba
     
     border-radius: 8px;
     }
+
+    /* Donate box */
+    .donate-box {
+
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        
+        width: 200px;
+        
+        height: 90;
+        
+        background-color: #b0bcff;
+        
+        border: 10px solid #000;
+        
+        border-radius: 20px;
+        }
