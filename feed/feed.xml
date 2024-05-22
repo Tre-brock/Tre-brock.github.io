@@ -7,6 +7,15 @@
   <description>I write about what I do, and what I like.</description>
   https://notabug.org/Tre_brock/View-Github-Notifications-in-addon-bar
          
+
+                       <item>
+  <pubDate>Tue, 21 May 2024 19:50:20 EDT </pubDate>
+    <title>My Seamonkey add-ons store</title>
+    <description>
+The Seamonkey add-ons store is almost broken right now. Many of the themes are not compatible. But they actually are, they just need their install file updated. But this can't happen.The store no long accepts new add-ons or updates to add-ons. Many popular add-ons have long been removed from the site because if they updated on the Thunderbird add-ons store to support web extensions then they would have been removed from the Seamonkey store. Many add-ons are still being worked on by people (and me). But you have to go on many different websites to download each one. So I made a store to compile a bunch of popular add-ons, or ones that I have made/updated myself. I also have added a few complete themes, that are on the official store but are only made for old version of Seamonkey, so I updated them. Also I will be accepting add-on and theme submissions, so if you find or have made a cool add-on, feel free to submit it! (but it better be free software). You can find my add-on store on https://tretechsolutions.com/Seamonkey-addons/
+       </description>
+  </item>
+
                        <item>
   <pubDate>Tue, 14 May 2024 12:50:20 EDT </pubDate>
     <title>A addon to view addons and edit preferences in xul based browsers</title>
