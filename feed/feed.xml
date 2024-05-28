@@ -7,7 +7,13 @@
   <description>I write about what I do, and what I like.</description>
   https://notabug.org/Tre_brock/View-Github-Notifications-in-addon-bar
          
-
+                       <item>
+  <pubDate>Mon, 27 May 2024 19:47:20 EDT </pubDate>
+    <title>I made my website compatible on the Wii</title>
+    <description>
+Today I was using my Wii and decided to use the internet browser on my Wii. My website worked ok but there way some problems. First, the gradients on my website were not working. This was fine on the feed pages, but on the other pages the background was completely black. I fixed this by making the edges of the background the color I wanted, and it looked cool. I never tried to fix the Seamonkey add-ons store because there is no reason for it to work on the Wii. After I had fixed the gradient there were still other issues, one of them was the video in my using gmail on epyrus tutorial did not load, the Wii browser does not support webm video. Something I knew the Wii supported was flash. So I made it that if your browser can not render the video it asks you if you want to view it with flash player. All browsers now can view webm videos so I thought only really old browser that needed flash would not be able to render it. Another issue was that the Wii renders svg images wrong. It makes them way to small. I changed all the svgs on my website into pngs. The final issue on my website was that on the page covering the add-ons I have made, the links to my Firefox and Seamonkey add-ons profile were too long and got cut off by a div. I thought they were too long even before doing this so I shorted them. After all that my website works flawless on the Wii. Why did I do this? Because it was fun.
+       </description>
+  </item>
                        <item>
   <pubDate>Tue, 21 May 2024 19:50:20 EDT </pubDate>
     <title>My Seamonkey add-ons store</title>
