@@ -63,11 +63,26 @@ background: linear-gradient(90deg, rgba(0,35,255,1) 0%, rgba(0,0,0,1) 1%, rgba(0
       border-radius: 5px;
 
       }
-      @media (max-width: 600px) {
+      @media (max-width: 700px) {
         .side-bar {
           display: none;
         }
       }
+
+      .top-bar {
+        height: 30px;
+        overflow: hidden;
+        margin: auto;
+        border: 3px solid #4287f5;
+        border-width: 0px 0px 3px 0px;
+        text-align: center;
+
+        }
+        @media (min-width: 700px) {
+          .top-bar {
+            display: none;
+          }
+        }
 
 
   .donate-box {
