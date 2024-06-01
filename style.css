@@ -1,4 +1,4 @@
-body {
+boy {
   background: rgb(0,35,255);
 background: linear-gradient(90deg, rgba(0,35,255,1) 0%, rgba(0,0,0,1) 1%, rgba(0,14,128,1) 25%, rgba(0,132,180,1) 50%, rgba(0,14,128,1) 75%, rgba(0,0,0,1) 99%, rgba(0,24,255,1) 100%); 
 
@@ -73,7 +73,6 @@ background: linear-gradient(90deg, rgba(0,35,255,1) 0%, rgba(0,0,0,1) 1%, rgba(0
         height: 30px;
         overflow: hidden;
         margin: auto;
-position: fixed;
         border: 3px solid #4287f5;
         border-width: 0px 0px 3px 0px;
         text-align: center;
