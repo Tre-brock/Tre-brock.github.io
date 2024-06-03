@@ -8,6 +8,14 @@
   https://notabug.org/Tre_brock/View-Github-Notifications-in-addon-bar
          
                        <item>
+  <pubDate>Mon, 3 Jun 2024 20:08:20 EDT </pubDate>
+    <title>Fixing my site for moblie</title>
+    <description>
+I do web browsing on my computer for like 90% of the time, so I never really tested my site on a phone. But when I did I noticed how bad it looked. The home page was not broken, just everything was very tiny. But the add-ons page was broken, with elements over lapping each other. The Feeds had the same problem as the home page. After looking for a bit online I found a solution to the scaling problem. Then after more looking I made it so the elements that overlap on the add-ons page will disappear if the screen is too small. 
+       </description>
+  </item>
+
+                       <item>
   <pubDate>Mon, 27 May 2024 19:47:20 EDT </pubDate>
     <title>I made my website compatible on the Wii</title>
     <description>
