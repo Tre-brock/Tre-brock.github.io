@@ -1,0 +1,26 @@
+body{
+    background: rgb(3, 0, 161);
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+h2{
+    text-align: center;
+    color: aliceblue;
+}
+.select-local {
+
+    position: absolute;
+    top: 200px;
+    right: 20px;   
+    width: 185px;
+    
+    height: 1400px;
+    
+    
+    border: 1px solid #000;
+    border-width: 3px 0px 0px 3px;
+    border-radius: 5px;
+
+    }
