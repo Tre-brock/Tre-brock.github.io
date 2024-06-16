@@ -20,15 +20,15 @@ h4{
 .right-div {
 
     position: absolute;
-    top: 50px;
-    right: 20px;   
+    top: 60px;
+    left: 300px;   
     width: 805px;
     
-    height: 1400px;
+    height: 1950px;
     
     
     border: 1px solid #000;
     border-width: 0px 0px 0px 3px;
-    border-radius: 5px;
+    border-radius: 1px;
 
     }
