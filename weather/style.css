@@ -1,5 +1,5 @@
 body{
-    background: rgb(3, 0, 161);
+    background: rgb(107, 107, 107);
 }
 h1{
     text-align: center;
@@ -7,6 +7,10 @@ h1{
 }
 h2{
     text-align: center;
+    color: aliceblue;
+}
+h3{
+    text-align: left;
     color: aliceblue;
 }
 .select-local {
