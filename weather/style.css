@@ -14,7 +14,7 @@ h3{
     color: aliceblue;
 }
 h4{
-    text-align: right;
+    text-align: left;
     color: aliceblue;
 }
 h5{
@@ -24,7 +24,7 @@ h5{
 .right-div {
 
     position: absolute;
-    top: 60px;
+    top: 105px;
     left: 300px;   
     width: 805px;
     
@@ -38,7 +38,7 @@ h5{
     }.left-div {
 
         position: absolute;
-        top: 90px;
+        top: 140px;
         left: 50px;   
         width: 205px;
         
