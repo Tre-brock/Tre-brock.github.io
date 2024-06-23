@@ -89,11 +89,11 @@ background: linear-gradient(90deg, rgba(0,35,255,1) 0%, rgba(0,0,0,1) 1%, rgba(0
 
     position: fixed;
     top: 0;
-    left: 0;
+    left: 18px;
     
     width: 200px;
     
-    height: 110;
+    height: 95;
     
     background-color: #001488;
     
@@ -113,7 +113,7 @@ background: linear-gradient(90deg, rgba(0,35,255,1) 0%, rgba(0,0,0,1) 1%, rgba(0
 
       position:absolute;
       top:0;
-      right:5;
+      right:18px;
       
       width: 130px;
       
@@ -152,7 +152,7 @@ background: linear-gradient(90deg, rgba(0,35,255,1) 0%, rgba(0,0,0,1) 1%, rgba(0
 
           position:absolute;
           top:70;
-          right:5;
+          right:18px;
           
           width: 95px;
           
