@@ -71,7 +71,6 @@ background: linear-gradient(90deg, rgba(0,35,255,1) 0%, rgba(0,0,0,1) 1%, rgba(0
       height: 1250px;
       background: rgb(0,93,255);
       background: linear-gradient(180deg, rgba(0,93,255,1) 0%, rgba(0,61,207,1) 29%, rgba(7,0,180,1) 60%, rgba(0,6,150,0) 91%, rgba(0,1,103,0) 100%);  
-      border-width: 3px 0px 0px 3px;
       border-radius: 5px;
 
       }
