@@ -47,6 +47,19 @@ background: linear-gradient(90deg, rgba(0,35,255,1) 0%, rgba(0,0,0,1) 1%, rgba(0
     border: 0px solid #000;
     
     border-radius: 20px;}
+    .badges {
+
+      position: absolute;
+      top: 200px;
+    left: 40px;   
+   width: 300px;
+      
+      height: 100;
+      
+      
+      border: 0px solid #000;
+      
+      border-radius: 20px;}
     /* }\side bar desktop */
     .side-bar {
 
