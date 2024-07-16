@@ -23,7 +23,7 @@ h2 {
         font-family: serif;
         }   
         h4 {
-            color: rgb(0, 0, 0);
+            color: rgb(185, 185, 185);
             text-align: center;
             font-family: serif;
             }   
@@ -248,10 +248,5 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,255,252,1) 0%, rgba
         width: 200px;
         
         height:90;
-        
-        background-color: #b0bcff;
-        
-        border: 10px solid #000;
-        
-        border-radius: 20px;
+
         }

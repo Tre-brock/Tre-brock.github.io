@@ -122,11 +122,8 @@ background: linear-gradient(90deg, rgba(0,35,255,1) 0%, rgba(0,0,0,1) 1%, rgba(0
     
     height: 95px;
     
-    background-color: #001488;
     
-    border: 10px solid #000;
-    
-    border-radius: 20px;
+
     }
     @media (max-width: 650px) {
       .donate-box {
