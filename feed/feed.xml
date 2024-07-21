@@ -7,6 +7,13 @@
   <description>I write about what I do, and what I like.</description>
 
                        <item>
+  <pubDate>Sat, 20 Jul 2024 20:08:20 EDT </pubDate>
+    <title>VPNs The facts and the lies</title>
+    <description>
+ I'm sure you have seen lots of youtubers talk about VPNs. "protect your privacy online" "Military grade encryption" "Protect yourself from attackers on public networks" etc etc etc... But are these claims really true? Is it worth spending your money on a VPN? First, privacy from VPNs. You will hear 90% of the youtubers who talk about a VPN in a sponsor talk about privacy. Most of the people these ads are shown to the VPN to will practically nothing. There probably on a windows laptop in google chrome and logged into their favorite social media site. A VPN changing your IP address will not help you. A much better (and free) way to upgrade your privacy would be to switch to brave. This is the best out of the box privacy that will not disrupt someones workflow at all. There are better options but this is the easiest that also has good payoff. Second, influences will say how VPNs have "military grade encryption". Fun fact, all websites with the lock icon have that too! None of your credit card info is visible. None of your passwords are. Unless you're on a unencrypted website. (No lock, big warning before visiting). Your ISP and people trying to snoop on the network (say in public wifi) will be able to see you are going to randombank.org or myemail.net, but they will not be able to see anything else. And the newer versions of Firefox are trying to mitigate this. There is only 2 uses for a VPN, changing location for a streaming service, or breaking the law in some way. Might that be piracy, or getting passed blocking (but tor can do this, and with even more privacy!) So why are people promoting these if there isn't much purpose? $MONEY$, it's all about the money. VPN sponsors get you big money and people who sign up with your code gives the creator a kickback with every purchase.   </description>
+  </item>
+
+                       <item>
   <pubDate>Sat, 22 Jun 2024 20:08:20 EDT </pubDate>
     <title>View the weather in Thunderbird!</title>
     <description>
