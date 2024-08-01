@@ -23,24 +23,6 @@
     <br>
     <br>
 <br>
-    <form action="https://searx.tux.pizza/" method="get">
-      <input type="text" name="q" id="search-box" placeholder="Search Posts">
-      <button type="submit">Search 🔎︎</button>
-    </form>
-    <script>
-// @license magnet:?xt=urn:btih:1f739d935676111cfff4b4693e3816e664797050&dn=gpl-3.0.txt GPL-3.0
-// Licensed GPL-3.0-or-later by Tre_brock.
-      const searchBox = document.getElementById('search-box');
-      const searchForm = document.querySelector('form');
-    
-      searchForm.addEventListener('submit', (e) => {
-        e.preventDefault();
-        const searchTerm = searchBox.value.trim();
-        const url = `https://searx.tux.pizza/?q=site:tretechsolutions.com/feed/+${searchTerm}`;
-        window.location.href = url;
-      });
-      // @license-end
-    </script>
     
     <hr>
     <a href="vpn.html"><h3>VPNs The facts and the lies (Mon July 20 2024)</h3></a>
