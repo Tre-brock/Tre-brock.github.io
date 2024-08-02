@@ -1,0 +1,180 @@
+body {
+  background: rgb(0,35,255);
+background: linear-gradient(90deg, rgba(0,35,255,1) 0%, rgba(0,0,0,1) 1%, rgba(0,14,128,1) 25%, rgba(0,132,180,1) 50%, rgba(0,14,128,1) 75%, rgba(0,0,0,1) 99%, rgba(0,24,255,1) 100%); 
+
+
+}
+  h4 {
+    color:rgb(214, 248, 248);
+    text-align: center;
+    }
+
+    h2 {
+      color:rgb(215, 255, 255);
+      text-align: center;
+      }
+  h1 {
+    color: rgb(23, 214, 255);
+    text-align: center;
+
+  }
+  h5 {
+    color: rgb(234, 255, 214);
+    text-align: right;
+  }
+  h3 {
+    color: rgb(255, 230, 183);
+    text-align: center;
+  }
+  h6 {
+    color: rgb(255, 230, 183);
+    text-align: center;
+  }
+  h7 {
+    color: rgb(255, 230, 183);
+    text-align: left;
+  }
+  .main {
+
+    position: relative;
+    top: 0px;
+    margin: 0px auto;    
+    width: 300px;   
+    border: 0px solid #000;
+    
+    border-radius: 20px;}
+
+    .main img {
+      transition: all .3s;
+      box-sizing: border-box;
+      max-width: 100%;
+    }
+    .main:hover img {
+      transform: scale(1.1) rotate(5deg);
+    }
+    .badges {
+
+      position: absolute;
+      top: 200px;
+    left: 40px;   
+   width: 83px;
+      
+      height: 100px;
+      
+      border: 0px solid #000;
+      
+      border-radius: 20px;}
+
+
+    /* }\side bar desktop */
+    .side-bar {
+
+      position: absolute;
+      top: 200px;
+      right: 20px;   
+      width: 185px;
+      
+      height: 1000px;
+      background: rgb(0,93,255);
+      background: linear-gradient(180deg, rgba(0,93,255,1) 0%, rgba(0,61,207,1) 29%, rgba(7,0,180,1) 60%, rgba(0,6,150,0) 91%, rgba(0,1,103,0) 100%);  
+      border-radius: 5px;
+
+      }
+      @media (max-width: 700px) {
+        .side-bar {
+          display: none;
+        }
+      }
+
+      .side-bar img {
+        transition: all 0.6s;
+        box-sizing: border-box;
+        max-width: 100%;
+      }
+      .side-bar:hover img {
+        transform: rotate(360deg);
+      }
+
+
+
+  .donate-box {
+
+    position: fixed;
+    top: 0;
+    left: 18px;
+    
+    width: 200px;
+    
+    height: 95px;
+    
+    
+
+    }
+    @media (max-width: 650px) {
+      .donate-box {
+        display: none;
+      }
+    }
+
+
+
+    .gpl-box {
+
+      position:absolute;
+      top:0;
+      right:18px;
+      
+      width: 130px;
+      
+      height: 51px;
+      
+      background-color: #ffffff;
+      
+      border: 5px solid #000;
+      
+      border-radius: 10px;
+      }
+      @media (max-width: 550px) {
+        .gpl-box {
+          display: none;
+        }
+      }
+      
+      .gplhome-box {
+
+        position: relative;
+  float: right;
+  right: 1em;
+  top: -1.2em;
+        
+        width: 95px;
+        
+        height: 38px;
+        
+        background-color: #ffffff;
+        
+        border: 5px solid #000;
+        
+        border-radius: 10px;
+        }
+        .source-box {
+
+          position:absolute;
+          top:70px;
+          right:18px;
+          
+          width: 95px;
+          
+          height: 50px;
+          
+          background-color: #ffffff;
+          
+          border: 5px solid #000;
+          
+          border-radius: 10px;
+          }
+          @media (max-width: 550px) {
+            .source-box {
+              display: none;
+            }
+          }
