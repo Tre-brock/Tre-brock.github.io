@@ -76,15 +76,7 @@ body {
  background: #ffffff;
        }
 
-  
-        .side-bar img {
-          transition: all 0s;
-          box-sizing: border-box;
-          max-width: 100%;
-        }
-        .side-bar:hover img {
-          transform: rotate(360deg);
-        }
+
   
   
   
