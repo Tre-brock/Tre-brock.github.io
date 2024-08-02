@@ -78,7 +78,7 @@ body {
 
   
         .side-bar img {
-          transition: all 0.6s;
+          transition: all 0s;
           box-sizing: border-box;
           max-width: 100%;
         }
