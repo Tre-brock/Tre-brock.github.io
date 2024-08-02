@@ -54,7 +54,7 @@ body {
       .badges {
   
         position: absolute;
-        top: 200px;
+        top: 40px;
       left: 40px;   
      width: 83px;
         
@@ -123,23 +123,7 @@ body {
           }
         }
         
-        .gplhome-box {
-  
-          position: relative;
-    float: right;
-    right: 1em;
-    top: -1.2em;
-          
-          width: 95px;
-          
-          height: 38px;
-          
-          background-color: #ffffff;
-          
-          border: 5px solid #000;
-          
-          border-radius: 10px;
-          }
+
           .source-box {
   
             position:absolute;
